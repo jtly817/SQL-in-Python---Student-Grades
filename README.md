@@ -8,15 +8,19 @@ This is a project that uses Structure Query Language by implementing the followi
 
 ## Objective
 A. Generate 2 csv files: 
-1. student information
-2. student grades in 5 courses
+1. Student information
+   ![image](https://github.com/user-attachments/assets/e6368a34-631c-4def-bf44-5a75fe3eaa03)
+
+2. Student grades in 5 courses
+   ![image](https://github.com/user-attachments/assets/6650e3ac-67c6-440b-adaf-0105745ac59b)
+
 
 B. Use SQL to analyze the data for: 
-1. number of male &amp; female students
-2. number of student in each class
+1. Number of male &amp; female students
+2. Number of student in each class
 3. Sort highest Math Grade by students
 4. Report highest Math Grade by Gender
-5. Sorth hightest Average Grade by students
+5. Sort hightest Average Grade by students
 6. Report highest Averge Grade by Gender
 
 C. Plot Data in Bar Graph for each scenario in part B. 
