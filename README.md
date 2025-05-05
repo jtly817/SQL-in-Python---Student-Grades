@@ -3,7 +3,7 @@ This is a project that uses Structure Query Language by implementing the followi
 
 ## Objective
 A. Generate 2 csv files: 
-(1) student information
+1. student information
 (2) student grades in 5 courses
 
 B. Use SQL to analyze the data for: 
