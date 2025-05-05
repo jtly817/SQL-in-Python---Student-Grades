@@ -35,11 +35,11 @@ for entry in student_info_strings:
     last_names.append(last)
     genders.append(gender)
 
-# Step 3: Generate IDs and DOBs
+# Generate IDs and DOBs
 student_ids = [f"{i+1:02d}" for i in range(20)]  
 birthdays = [f"{random.randint(1, 12):02d}/{random.randint(1, 28):02d}/{random.randint(1985, 2004)}" for _ in range(20)]
 
-# Step 4: Create DataFrame
+# Create DataFrame
 student_info = {
     "Student_ID": student_ids,
     "First_Name": first_names,
