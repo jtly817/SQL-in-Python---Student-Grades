@@ -1,5 +1,10 @@
 # SQL-in-Python---Student-Grades
-This is a project that uses Structure Query Language by implementing the following Python libraries: PANDAS,  RANDOM, SQLITE3, MATPLOTLIB &amp; SEABORN
+This is a project that uses Structure Query Language by implementing the following Python libraries: 
+1. PANDAS
+2. RANDOM
+3. SQLITE3
+4. MATPLOTLIB
+5. SEABORN
 
 ## Objective
 A. Generate 2 csv files: 
