@@ -23,11 +23,17 @@ C. Plot Data in Bar Graph for each scenario in part B.
 
 ## CSV Files
 ### Note:
-if you run the generate_csv_files.py, the data will be different each time. To get the same results, use the csv files provided and put it in the same folder.
+If you run the generate_csv_files.py, the data will be different each time. To get the same results, use the csv files provided and put it in the same folder.
 ### student_info (sample)
 ![image](https://github.com/user-attachments/assets/e6368a34-631c-4def-bf44-5a75fe3eaa03)
 ### student_grades (sample)
 ![image](https://github.com/user-attachments/assets/6650e3ac-67c6-440b-adaf-0105745ac59b)
-## Plot
+
+## Query Output
+### Sample of Query1 and Query2 output in main.py
+![image](https://github.com/user-attachments/assets/bbe69b18-2cd2-480b-bf96-117b0a80455f)
+
+## Plot Output
+### Sample of output in plot.py
 ![image](https://github.com/user-attachments/assets/fcbad9f9-c050-4b8f-80cc-0f0888428dad)
 
